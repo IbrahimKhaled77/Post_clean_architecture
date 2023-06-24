@@ -1,8 +1,7 @@
 ## Clean code flutter post
 
-A new Flutter project.
 
-## Getting Started
+## Packegs
 
 This project is a starting point for a Flutter application.
 
