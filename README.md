@@ -1,15 +1,21 @@
-## Clean code flutter post
+## Clean code flutter post:
+
+delete_post,update_post,add_post,get_post;
+
+## Packegs:
+
+1-flutter_bloc
+2-dartz
+3-http
+4-shared_preferences
+5-equatable
+6-get_it
+7-internet_connection_checker
 
 
-## Packegs
+## image_clean_architecture
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![clean-architecture-2](https://github.com/IbrahimKhaled77/Post_clean_architecture/assets/116188398/c25c1dac-c527-459c-8518-621ee4c25e28)
+:
