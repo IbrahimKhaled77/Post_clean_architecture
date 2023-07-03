@@ -1,4 +1,4 @@
-## Clean code flutter post:
+## clean_architecture  flutter post and clean code:
 
 delete_post,update_post,add_post,get_post;
 
